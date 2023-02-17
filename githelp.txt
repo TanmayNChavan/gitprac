@@ -1,0 +1,22 @@
+1] git --version //to check version
+2] git config --global user.name "your name"//to change user name
+3]git config --global user.email "your email"//to change user email
+4] mkdir <dir name> //crate new folder
+5]cd <dir name> //change directory
+6] git init //to make gitrepo
+7] git status //to check status
+8] git add <file name>//to add file in staging area
+9] git commit -m "initial commit"
+10]git log
+11]git add .//to add all file in staging area
+12] git checkout <hash code>//to go commit file
+13]git checkout master//to go back
+14]git branch
+15]git branch<branch name>
+16]git branch -b<name>
+17]git merge<barnch name>//merge the file
+18]git ignore//not visible 
+19]touch.gitignore//to create ignore file
+20]
+
+
